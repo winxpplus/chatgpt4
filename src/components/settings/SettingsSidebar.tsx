@@ -37,17 +37,17 @@ export default () => {
       <footer class="h-14 fi justify-between px-3">
         <ThemeToggle />
         <div text-xs op-40 px-2>
-          <a href="https://img.quanminzc.com/qmzc/202306/1686296315449.jpg" target="_blank" rel="noreferrer" class="hv-foreground">
+    {/*      <a href="https://img.quanminzc.com/qmzc/202306/1686296315449.jpg" target="_blank" rel="noreferrer" class="hv-foreground">
             加群防失联
           </a>
-          <span class="px-1"> · </span>
-          <a href="https://lg8h2izm09.feishu.cn/docx/YU7UduJFNoMKSPxa94JcWkd0nJg" target="_blank" rel="noreferrer" class="hv-foreground">
+          <span class="px-1"> · </span>*/}
+          <a href="https://lg8h2izm09.feishu.cn/docx/GlxSdhxOJoIPYWxGYqscZEnpnbd" target="_blank" rel="noreferrer" class="hv-foreground">
             使用说明
           </a>
-          <span class="px-1"> · </span>
+          {/*<span class="px-1"> · </span>
           <a href="https://gpt102.chatxyz.online" target="_blank" rel="noreferrer" class="hv-foreground">
             GPT3.5站点
-          </a>
+          </a>*/}
         </div>
       </footer>
     </div>
